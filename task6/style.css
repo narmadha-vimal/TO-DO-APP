@@ -1,0 +1,60 @@
+body{
+        background-color:coral;
+}
+.to-do-container{
+    height: 200px;
+    width: 400px;
+    margin top: 10px;
+    border-radius: 5px solid;
+    padding : 100px;
+     border: 50px;
+    background-color: antiquewhite;
+    line-height: 25px;
+}
+.list-of-tasks{
+    display:inline-flex;
+    height: 20px;
+    border: 40px;
+    border-radius: 2px solid;
+    padding: 20px;
+    padding: top 1px;
+    padding-bottom: 30px;
+    background-color: rgb(133, 194, 27);
+}
+.wrapper{
+    background-color: antiquewhite;
+}
+.taskname{
+    height: 30px;
+    width: 250px;
+    border-radius: 25px;
+    border:2px solid;
+    padding: 5px;
+}
+h1{
+    background-color: antiquewhite;
+    font-size:x-large;
+}
+.addbtn
+{
+    background-color:cornflowerblue;
+}
+.closebtn{
+    background-color: red;
+}
+.tasks-title{
+   padding-top: 15px;
+   padding-left: 20px;
+  
+   font-size: 20px;
+}
+.tasks-controls{
+ 
+    padding-top:15px;
+    padding-left:100px ;
+}
+.completedtasks{
+   
+    padding-top:20px;
+}
+
